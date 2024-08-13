@@ -1,4 +1,4 @@
-# Challenge conversor de monedas | Alura LATAMA
+# Challenge conversor de monedas | Alura LATAM
 
 ## Descripción
 
